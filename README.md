@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Client/CSI_NEW/public/logo.png" width="80" alt="CSI Logo"/>
+  <img src="/bgCSILogo-a8e0ce5f.png" width="80" alt="CSI Logo"/>
 </p>
 
 <h1 align="center">PICT CSI Official Website</h1>
