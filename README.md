@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./bgCSILogo-a8e0ce5f.png"  alt="CSI Logo"/>
+  <img width="80" height="178" alt="bgCSILogo-a8e0ce5f" src="https://github.com/user-attachments/assets/492a0ab4-6c8a-40a3-8a36-7ef85e445bf0" />
+
 </p>
 
 <h1 align="center">PICT CSI Official Website</h1>
