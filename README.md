@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/bgCSILogo-a8e0ce5f.png" width="80" alt="CSI Logo"/>
+  <img src="./bgCSILogo-a8e0ce5f.png"  alt="CSI Logo"/>
 </p>
 
 <h1 align="center">PICT CSI Official Website</h1>
@@ -37,7 +37,6 @@
 - [Project Structure](#-project-structure)
 - [How It Works — Key Flows](#-how-it-works--key-flows)
 - [Screenshots](#-screenshots)
-- [Links](#-links)
 
 ---
 
@@ -481,14 +480,7 @@ csi-official-site/
 | ![Attendance PDF](https://via.placeholder.com/400x250?text=Attendance+PDF+Export) | ![QR Scanner](https://via.placeholder.com/400x250?text=QR+Scanner)           |
 | ![Events Page](https://via.placeholder.com/400x250?text=Events+Page)              | ![Event Creation](https://via.placeholder.com/400x250?text=Event+Creation)   |
 
----
 
-## 🔗 Links
-
-- **Live Demo:** [Add your deployed URL here]
-- **GitHub Repository:** [Add your GitHub URL here]
-
----
 
 <p align="center">
   Built with ❤️ for PICT CSI Student Chapter
