@@ -472,14 +472,22 @@ csi-official-site/
 ---
 
 ## 📸 Screenshots
+<img width="1917" height="933" alt="Screenshot 2026-06-29 133026" src="https://github.com/user-attachments/assets/0b77210b-0b0f-484a-a97c-916231767459" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 123006" src="https://github.com/user-attachments/assets/09e3a509-62e6-4c49-a6d0-ab5b94c7696b" /><img width="1901" height="932" alt="Screenshot 2026-06-29 133643" src="https://github.com/user-attachments/assets/edcfca83-4ff1-41cd-aa10-cae895cc75fe" />
+<img width="1913" height="933" alt="Screenshot 2026-06-29 133651" src="https://github.com/user-attachments/assets/9bd25345-96e4-4ebc-9b49-c3373aac6c9e" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 131224" src="https://github.com/user-attachments/assets/46029005-fa22-45c9-8d66-d2a665d22e53" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 131045" src="https://github.com/user-attachments/assets/86eefcd5-bdb2-49be-a469-18dab7147338" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122939" src="https://github.com/user-attachments/assets/617b3e32-8149-4456-a5f4-9799357a6931" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122820" src="https://github.com/user-attachments/assets/0c8e41a5-668b-494f-b96f-e7e00e27f2d6" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122626" src="https://github.com/user-attachments/assets/eaa96297-2151-4fb6-9d15-0c8bbe9f6fcf" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122608" src="https://github.com/user-attachments/assets/f1933ab9-e20c-42ba-afeb-d53cd6351dad" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122533" src="https://github.com/user-attachments/assets/184da036-1504-4804-8999-19642248d9ac" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122249" src="https://github.com/user-attachments/assets/552d6628-ae67-4c9c-84e4-37bde457abd3" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 122053" src="https://github.com/user-attachments/assets/4cb4d798-1d5e-47b8-a127-69a03f387b4a" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 120633" src="https://github.com/user-attachments/assets/f57e22a6-0965-48a9-8e30-4157a1cdb990" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 120607" src="https://github.com/user-attachments/assets/71a520e4-e525-4a56-8c20-98f267013cf3" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-29 120530" src="https://github.com/user-attachments/assets/5410ceb4-ee39-436d-8cdd-892f90f23eb5" />
 
-> _(Replace placeholder links with your actual screenshots)_
-
-| Student Portal                                                                    | Admin Dashboard                                                              |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| ![Profile Dashboard](https://via.placeholder.com/400x250?text=Profile+Dashboard)  | ![Admin Dashboard](https://via.placeholder.com/400x250?text=Admin+Dashboard) |
-| ![Attendance PDF](https://via.placeholder.com/400x250?text=Attendance+PDF+Export) | ![QR Scanner](https://via.placeholder.com/400x250?text=QR+Scanner)           |
-| ![Events Page](https://via.placeholder.com/400x250?text=Events+Page)              | ![Event Creation](https://via.placeholder.com/400x250?text=Event+Creation)   |
 
 
 
