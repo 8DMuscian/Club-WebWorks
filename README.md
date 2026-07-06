@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/GSAP-3-88CE02?logo=greensock" />
 </p>
 
+> **Note:** The actual project repository is private and cannot be shared publicly.
 ---
 
 ## 📋 Table of Contents
